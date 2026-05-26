@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on React/Next<br>🤝 I’m looking for help with Flutter<br>💬 Ask me about <br>⚡ Fun fact I play Chess
+🔭I’m looking to collaborate on Webdevelopment and Datascience projects<br>💬 Ask me about <br>
 
 
 ## 🌐 Socials:
